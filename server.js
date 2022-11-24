@@ -12,17 +12,13 @@ const connectionStringURI = `mongodb://localhost:3001/social-api-challenge`;
 // Declare a variable to hold the connection
 // let db;
 
-// Creates a connection to a MongoDB instance and returns the reference to the database
+
 mongodb.connect(
-  // Defines connection between app and MongoDB instance
   connectionStringURI,
   { useNewUrlParser: true, useUnifiedTopology: true },
-
     app.listen(port, () => {
       console.log(`Example app listening at mongodb://localhost:3001/social-api-challenge`);
     })
-  
 );
 
-// Built in Express function that parses incoming requests to JSON
 app.use(express.json());
