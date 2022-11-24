@@ -12,3 +12,5 @@ Mostly all routes, controllers, and models got finished, express and mongoose pa
 
 
 Screenshot of Project:
+![Challenge18SS1](https://user-images.githubusercontent.com/112139137/203685890-f972a8b7-9fda-471e-ae10-4c17b09bdca2.PNG)
+![Challenge18SS2](https://user-images.githubusercontent.com/112139137/203685898-3a85c4f1-a5b7-485a-94d0-9b9120840994.PNG)
